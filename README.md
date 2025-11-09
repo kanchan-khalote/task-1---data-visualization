@@ -22,3 +22,6 @@ In the second step, I extracted only the required information (Date-Time and Tem
 In the third step, I visualized the temperature forecast using the matplotlib library. A line graph was plotted where the x-axis represented the date and time, and the y-axis represented the temperature in degrees Celsius. The graph clearly showed how temperature changes over the forecast period. Visualization helps in understanding trends more easily than raw numbers.
 
 Through this task, I learned how to connect Python with a real-time API, handle JSON data, convert it into a DataFrame, and generate graphical insights. This task improved my understanding of data analytics, Python libraries, and how real-world applications use APIs to fetch live data.
+
+*OUTPUT * : 
+<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/a49eb50b-5574-4324-ba23-54875be2357f" />
